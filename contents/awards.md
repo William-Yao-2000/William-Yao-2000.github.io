@@ -1,9 +1,1 @@
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- CVPR-24 V3Det Challenge: the 1st place in OVD track, the 2nd place in Supervised track. 2024.
