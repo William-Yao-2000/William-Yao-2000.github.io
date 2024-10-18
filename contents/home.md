@@ -8,7 +8,7 @@ Previously, I received my B.Eng. in Computer Science and Technology from South C
 
 #### Contact
 ✉️ &ensp;[whyao23 [at] m.fudan.edu.cn](mailto:whyao23@m.fudan.edu.cn)<br/>
-📄 &ensp; [My CV](resources/cv_eng.pdf)
+📄 &ensp; [My CV](resources/cv.pdf)
 
 #### Education
 + M.Sc., Computer Science and Technology, Fudan University, 2023—2026 (expected).
