@@ -5,8 +5,9 @@
 #### About Me
 I am currently a second year Master's student in the School of Computer Science at Fudan University supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/).
 
-#### Contact
-✉️ whyao23 [at] m.fudan.edu.cn
+Previously, I received my B.Eng. in Computer Science and Technology from South China University of Technology.
+
+Email: whyao23 [at] m.fudan.edu.cn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](contents/resources/ev_eng.pdf)
 
 #### Education
 + M.Sc., Computer Science and Technology, Fudan University, 2023—2026 (expected).
