@@ -1,1 +1,2 @@
-- CVPR-24 V3Det Challenge: the 1st place in OVD track, the 2nd place in Supervised track. 2024.
+- [CVPR-24 V3Det Challenge](https://v3det.openxlab.org.cn/challenge): the 1st place in OVD track, the 2nd place in Supervised track. 2024.
+- [National College Student Computer System Ability Competition](https://compiler.educg.net/#/) – Compiler System Design: The second prize. 2021.
