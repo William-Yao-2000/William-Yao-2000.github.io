@@ -3,7 +3,7 @@
 [![William-Yao-2000](https://img.shields.io/badge/William--Yao--2000-github-blue)](https://github.com/William-Yao-2000)
 
 #### About Me
-I am currently a second year Master's student in the School of Computer Science at Fudan University supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/).<br/>
+I am currently a third year Master's student in the School of Computer Science at Fudan University supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/).<br/>
 Previously, I received my B.Eng. in Computer Science and Technology from South China University of Technology.
 
 #### Contact
@@ -15,7 +15,7 @@ Previously, I received my B.Eng. in Computer Science and Technology from South C
 + B.Eng., Computer Science and Technology, South China University of Technology, 2019—2023.
 
 #### Research Interests
-Object Detection and Segmentation, OCR, Autonomous Driving.
+Object Detection and Segmentation, Autonomous Driving, OCR.
 
 #### Skills
 + **Deep Learning Frameworks and Platforms**: Detectron2, Pytorch, Pytorch-Lightening

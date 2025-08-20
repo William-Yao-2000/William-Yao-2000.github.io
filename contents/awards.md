@@ -1,2 +1,3 @@
-- [CVPR-24 V3Det Challenge](https://v3det.openxlab.org.cn/challenge): the 1st place in OVD track, the 2nd place in Supervised track. 2024.
+- [CVPR 2025 NAVSIM v2 End-to-End Driving Challenge](https://opendrivelab.com/challenge2025/#navsim-e2e-driving): 1st place. 2025.
+- [CVPR 2024 V3Det Challenge](https://v3det.openxlab.org.cn/challenge): 1st place in OVD track, 2nd place in Supervised track. 2024.
 - [National College Student Computer System Ability Competition](https://compiler.educg.net/#/) – Compiler System Design: The second prize. 2021.
